@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# vim: set fileencoding=\xc3 :
+
 import random
 bull = 0
 cow = 0
